@@ -21,6 +21,11 @@ header {
 	padding-right: 20px;
 }
 
+.vendor-photoB {
+	max-width: 400px;
+	max-height: 350px;
+	padding-right: 20px;
+}
 .vendor-book-button {
 	font-size: 2em;
 }
@@ -52,4 +57,17 @@ header {
 
 .red-cart {
 	color: #DF0000;
+}
+
+#mp1A{
+  padding: 15px 32px;
+}
+#mp2A{
+  padding: 15px 32px;
+}
+#mp3A{
+  padding: 15px 32px;
+}
+#mp4A{
+  padding: 15px 32px;
 }
